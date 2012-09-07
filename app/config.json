@@ -1,0 +1,9 @@
+{
+    "global": {"serverBaseUrl":"https://www.googleapis.com/books/v1/volumes?q=android"},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:ios": {},
+    "os:android": {},
+    "dependencies": {}
+}

@@ -1,0 +1,17 @@
+<Alloy>
+	<TabGroup>
+		<!-- Explicit Window declaration -->
+		<Tab id="tab1">
+			<Window id="win1">
+				<Label>Label 1</Label>
+				<Label platform="android">Label 2</Label>
+				<Button id="helloBtn" onClick="sayHello">Say Hello</Button>
+				<Button id="callXhr">XHR Call</Button>
+				<TableView id="table"/>
+			</Window>
+		</Tab>
+
+		<!-- Tab included via <Require> tag -->
+		<Require src="tabView"/>
+	</TabGroup>
+</Alloy>

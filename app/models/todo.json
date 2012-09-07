@@ -1,0 +1,11 @@
+{
+    "columns": {
+        "name": "string",
+        "active": "boolean"
+    },
+    "defaults": {},
+    "adapter": {
+        "type": "sql",
+        "tablename": "todo"
+    }
+}

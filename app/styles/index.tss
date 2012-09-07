@@ -1,0 +1,20 @@
+"#tab1": {
+	title: "Tab 1"
+},
+"#tab2": {
+	title: "Tab 2"
+},
+"#win1": {
+	title: "Window 1",
+	layout: "vertical"
+},
+"#helloBtn" : {
+	"top":5,
+    "width":250,
+    "height":30
+},
+"#callXhr" : {
+	"top":5,
+    "width":250,
+    "height":30
+}
